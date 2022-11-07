@@ -15,6 +15,9 @@ cd myhdl/test/core > py.test.<br/>
   </ol>
 
 
+# Examples
+
+https://www.myhdl.org/docs/examples/
 
 pip show <package name> will provide the location for Windows and macOS
 
