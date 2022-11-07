@@ -25,6 +25,10 @@ https://www.myhdl.org/docs/examples/flipflops.html
 
 http://docs.myhdl.org/en/stable/manual/conversion_examples.html
 
+# On git
+
+https://github.com/myhdl/myhdl
+
 pip show <package name> will provide the location for Windows and macOS
 
 
