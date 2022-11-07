@@ -21,6 +21,10 @@ https://www.myhdl.org/docs/examples/
 
 http://docs.myhdl.org/en/stable/manual/conversion_examples.html
 
+https://www.myhdl.org/docs/examples/flipflops.html
+
+http://docs.myhdl.org/en/stable/manual/conversion_examples.html
+
 pip show <package name> will provide the location for Windows and macOS
 
 
