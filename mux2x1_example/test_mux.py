@@ -22,18 +22,20 @@ def test_mux():
 
     return mux_1, stimulus
 '''
+# The following is to run the simulation
 tb = test_mux()
 tb.run_sim()
 '''
-
-# The following is for vcd file generation
+'''
+# The following is to run the simulation and also for vcd file generation
 def simulate(timesteps):
     simInst = test_mux() 
     simInst.config_sim(trace=True, tracebackup=False)
     simInst.run_sim(timesteps, quiet=0) 
 
 simulate(2000)
-
+'''
+'''
 # The following is to conversion to verilog and vhdl 
 def convert():
     z, a, b, sel = [Signal(bool(0)) for i in range(4)]
@@ -42,4 +44,4 @@ def convert():
     convInst.convert(hdl='VHDL')
 
 convert()
-
+'''
