@@ -19,3 +19,7 @@ https://www.dsprelated.com/showarticle/1189.php
 ### This repository contains a collection of hardware digital filter implementations coded with myhdl.
 
 https://github.com/cfelton/filter-blocks
+
+### MyHDL Resources
+
+https://github.com/devbisme/myhdl-resources
