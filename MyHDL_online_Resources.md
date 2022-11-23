@@ -23,3 +23,7 @@ https://github.com/cfelton/filter-blocks
 ### MyHDL Resources
 
 https://github.com/devbisme/myhdl-resources
+
+### Project Report : Digital Filter Blocks in MyHDL and their integration in pyFDA
+
+https://www.dsprelated.com/showarticle/1194.php
