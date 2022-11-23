@@ -15,3 +15,7 @@ https://www.dsprelated.com/showarticle/1183.php
 ### Project update-2 : Digital Filter Blocks in MyHDL and their integration in pyFDA
 
 https://www.dsprelated.com/showarticle/1189.php
+
+### This repository contains a collection of hardware digital filter implementations coded with myhdl.
+
+https://github.com/cfelton/filter-blocks
